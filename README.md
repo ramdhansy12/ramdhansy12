@@ -4,8 +4,7 @@
 </div>
 
 <br/>
-
-I am a student at Pelita Bangsa University, Cikarang, Informatics Engineering. Now I'm learning flutter
+ Informatics Engineering. Now I'm learning 
 
 
 

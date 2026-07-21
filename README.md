@@ -22,11 +22,6 @@
 </a>
 </p>
 
-If you are interested in getting to know me, please follow my social media
-
-<a href="https://www.instagram.com/ramdhansyaifulloh/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ramdhansy12.ramdhansy12)
 
